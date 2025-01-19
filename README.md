@@ -3,4 +3,7 @@
 
 # TECH STACK
 - Python
+- tkinter
+- pyttsx3
+- PyPDF2
 
