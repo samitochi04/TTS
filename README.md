@@ -2,4 +2,6 @@
 
 # TECH STACK
 - Python
-
+- PyPDF2
+- pyttsx3
+- tkinter
